@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("traderails-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0daeb97d4837465142dcbafc508ce7b90c1b3eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("traderails-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("traderails-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

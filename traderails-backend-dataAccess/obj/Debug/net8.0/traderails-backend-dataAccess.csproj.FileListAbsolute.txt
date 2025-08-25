@@ -1,0 +1,14 @@
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\bin\Debug\net8.0\traderails-backend-dataAccess.deps.json
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\bin\Debug\net8.0\traderails-backend-dataAccess.runtimeconfig.json
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\bin\Debug\net8.0\traderails-backend-dataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\bin\Debug\net8.0\traderails-backend-dataAccess.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.csproj.AssemblyReference.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\refint\traderails-backend-dataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\traderails-backend-dataAccess.genruntimeconfig.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-dataAccess\obj\Debug\net8.0\ref\traderails-backend-dataAccess.dll

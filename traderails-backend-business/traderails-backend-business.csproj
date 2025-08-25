@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>traderails_backend_business</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\traderails-backend-communication\traderails-backend-communication.csproj" />
+    <ProjectReference Include="..\traderails-backend-dataAccess\traderails-backend-dataAccess.csproj" />
+    <ProjectReference Include="..\traderails-backend-models\traderails-backend-models.csproj" />
+    <ProjectReference Include="..\traderails-backend-utilities\traderails-backend-utilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\bin\Debug\net8.0\traderails-backend-utilities.deps.json
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\bin\Debug\net8.0\traderails-backend-utilities.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\bin\Debug\net8.0\traderails-backend-utilities.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\refint\traderails-backend-utilities.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\traderails-backend-utilities.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-utilities\obj\Debug\net8.0\ref\traderails-backend-utilities.dll

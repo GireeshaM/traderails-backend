@@ -1,0 +1,15 @@
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\bin\Debug\net8.0\traderails-backend-communication.deps.json
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\bin\Debug\net8.0\traderails-backend-communication.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\bin\Debug\net8.0\traderails-backend-communication.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\refint\traderails-backend-communication.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\ref\traderails-backend-communication.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\bin\Debug\net8.0\traderails-backend-utilities.dll
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\bin\Debug\net8.0\traderails-backend-utilities.pdb
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderails-backend-communication.csproj.AssemblyReference.cache
+C:\Users\RayaRajeshReddy\source\repos\traderails-backend-gireesha\traderails-backend-communication\obj\Debug\net8.0\traderai.A85D9349.Up2Date

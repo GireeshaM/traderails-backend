@@ -1,9 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend", "traderails-backend\traderails-backend.csproj", "{FBF8CDF3-9193-4548-A63F-F5068C22BC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend-business", "traderails-backend-business\traderails-backend-business.csproj", "{876969C2-14C4-4942-A974-2ED26D9C8343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend-dataAccess", "traderails-backend-dataAccess\traderails-backend-dataAccess.csproj", "{90AB4778-EF4B-46C6-A9FC-41F30DBDBB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend-models", "traderails-backend-models\traderails-backend-models.csproj", "{C247DF5A-0B2D-4FF7-BD72-61C063D35352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend-utilities", "traderails-backend-utilities\traderails-backend-utilities.csproj", "{A52BFA9F-567A-4D65-BF7B-07C37692CBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traderails-backend-communication", "traderails-backend-communication\traderails-backend-communication.csproj", "{3BF12098-86A6-48EF-A914-E1B68F87FFAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{FBF8CDF3-9193-4548-A63F-F5068C22BC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBF8CDF3-9193-4548-A63F-F5068C22BC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBF8CDF3-9193-4548-A63F-F5068C22BC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876969C2-14C4-4942-A974-2ED26D9C8343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876969C2-14C4-4942-A974-2ED26D9C8343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876969C2-14C4-4942-A974-2ED26D9C8343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876969C2-14C4-4942-A974-2ED26D9C8343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AB4778-EF4B-46C6-A9FC-41F30DBDBB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB4778-EF4B-46C6-A9FC-41F30DBDBB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB4778-EF4B-46C6-A9FC-41F30DBDBB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB4778-EF4B-46C6-A9FC-41F30DBDBB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C247DF5A-0B2D-4FF7-BD72-61C063D35352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C247DF5A-0B2D-4FF7-BD72-61C063D35352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C247DF5A-0B2D-4FF7-BD72-61C063D35352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C247DF5A-0B2D-4FF7-BD72-61C063D35352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52BFA9F-567A-4D65-BF7B-07C37692CBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52BFA9F-567A-4D65-BF7B-07C37692CBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52BFA9F-567A-4D65-BF7B-07C37692CBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52BFA9F-567A-4D65-BF7B-07C37692CBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF12098-86A6-48EF-A914-E1B68F87FFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF12098-86A6-48EF-A914-E1B68F87FFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF12098-86A6-48EF-A914-E1B68F87FFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF12098-86A6-48EF-A914-E1B68F87FFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

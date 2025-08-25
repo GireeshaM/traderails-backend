@@ -8,7 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\traderails-backend-business\traderails-backend-business.csproj" />
+    <ProjectReference Include="..\traderails-backend-communication\traderails-backend-communication.csproj" />
+    <ProjectReference Include="..\traderails-backend-dataAccess\traderails-backend-dataAccess.csproj" />
+    <ProjectReference Include="..\traderails-backend-models\traderails-backend-models.csproj" />
+    <ProjectReference Include="..\traderails-backend-utilities\traderails-backend-utilities.csproj" />
   </ItemGroup>
 
 </Project>
