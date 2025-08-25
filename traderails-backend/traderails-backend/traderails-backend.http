@@ -1,0 +1,6 @@
+@traderails_backend_HostAddress = http://localhost:5257
+
+GET {{traderails_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
